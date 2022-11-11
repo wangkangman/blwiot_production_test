@@ -2,13 +2,13 @@
  * @Author: Connor
  * @Date: 2022-11-11 14:48:16
  * @LastEditors: Connor
- * @LastEditTime: 2022-11-11 14:55:40
+ * @LastEditTime: 2022-11-11 15:05:06
  * @FilePath: \碧林威生产测试文件\NB-IoT_PSM\NB模组烧录说明.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Connor/BLW, All Rights Reserved. 
 -->
-#模组俯视图
+# 模组俯视图
 ![a2d3092bb904198b9b17268ad581247.png](https://upload-images.jianshu.io/upload_images/27814183-16a1b7ecc9a14fdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 1. 为模组烧录固件。
