@@ -2,8 +2,8 @@
  * @Author: Connor
  * @Date: 2022-11-11 14:15:32
  * @LastEditors: Connor
- * @LastEditTime: 2022-11-11 15:14:49
- * @FilePath: \碧林威生产测试文件\NB-IoT_PSM\NB-IoT_PSM.md
+ * @LastEditTime: 2022-11-12 17:06:18
+ * @FilePath: /blwiot_production_test/NB-IoT_PSM/NB-IoT_PSM.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Connor/BLW, All Rights Reserved. 
@@ -82,6 +82,7 @@ rtc最大支持10任务，任务id与网页创建任务的顺序相关。
 <div align="center">
 <img src=./docs/web_create.png width=60% />
 </div>
+
 ```
 页面会依创建任务的次序，判定任务的id。
 右侧按钮激活时，点击按钮，将下发“此项rtc任务禁止” 指令。
